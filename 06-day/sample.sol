@@ -7,6 +7,6 @@ constructor(uint _value) {
  }
 function updateConstant(uint _newValue) external {
  // This will result in a compilation error
- MY_CONSTANT = _newValue;
+//  MY_CONSTANT = _newValue;
  }
 }
